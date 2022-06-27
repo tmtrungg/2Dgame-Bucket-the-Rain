@@ -1,4 +1,5 @@
 # 2D GAME: Bucket the Rain
+_Completed in 28/09/2019_
 
 ## Game Overview
   This is a PC 2D game that I've created using C++ and free online materials of images.
