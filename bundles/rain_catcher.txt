@@ -1,0 +1,10 @@
+BITMAP,bucket,bucket1.png
+BITMAP,bucket2,bucket2.png
+BITMAP,bucket3,bucket3.png
+BITMAP,rain,water1.png
+BITMAP,purple,water2.png
+BITMAP,bg,back.png
+BITMAP,over,gover.jpg
+BITMAP,rule,rule.png
+
+
