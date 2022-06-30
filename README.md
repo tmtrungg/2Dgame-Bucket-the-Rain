@@ -11,8 +11,10 @@ _Completed in 28/09/2019_
 ## Demo video
    Here's the video of the game's instruction and walkthrough: https://youtu.be/hSc6S0tVOA8
 ## Gameplay screenshot
-![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_trailer.png)
+![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/rain_demo/0.png)
 
-![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_gameplay.png)
+![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/rain_demo/1.png)
+
+![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/rain_demo/2.png)
 
 
