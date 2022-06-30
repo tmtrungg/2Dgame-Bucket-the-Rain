@@ -10,11 +10,11 @@ _Completed in 28/09/2019_
   For each score milestone that users reach (10, 20, etc.) the difficulties of the game will be increased in multiple ways (speed up the dropping waters, increase the spawning percentages of purple drops and decrease the blue ones). The game goes on endlessly so that players can break old records and set new ones.
   
 ## Gameplay screenshot
-![alt text]https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_trailer.png?raw=true)
+![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_trailer.png?raw=true)
 
-![alt text]https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_gameplay.png?raw=true)
+![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_gameplay.png?raw=true)
 
-![alt text]https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_over.png?raw=true)
+![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_over.png?raw=true)
 
 ## Demo video
    Here's the video of the game's instruction and walkthrough: https://youtu.be/hSc6S0tVOA8
