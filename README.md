@@ -15,6 +15,4 @@ _Completed in 28/09/2019_
 
 ![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_gameplay.png)
 
-![alt text](https://github.com/tmtrungg/2Dgame-Bucket-the-Rain/blob/main/raincatcher/rain_over.png)
-
 
